@@ -9,6 +9,7 @@ A product card component which you can use in your e-commerce app
 
 [![Star this project](https://img.shields.io/badge/-⭐%20Star%20this%20project-yellow?style=for-the-badge)](https://github.com/Silent-Watcher/nike-product-card)
 
+<img width="250px" align="right" src="./animated%20demo.gif">
 
 ## Table of Contents
 
@@ -17,7 +18,7 @@ A product card component which you can use in your e-commerce app
 -   [Contact](https://github.com/Silent-Watcher/nike-product-card#Contact)
 -   [License](https://github.com/Silent-Watcher/nike-product-card#License)
 
-<img align="right" src="./animated%20demo.gif">
+
 
 ## Demo
 
